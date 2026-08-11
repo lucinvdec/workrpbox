@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+.wkbox{
+  width: 100%;
+  max-width: 600px;
+  min-width: 400px;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 20px;
+  font-family: Google Sans;
+  font-size: 15px;
+  text-align: justify;
+  border: 1px solid #222;
+  color: #eaeaea;
+}
+
+.wkfxpic{
+  display:flex;
+}
+
+.wkpic{
+  aspect-ratio: 1/1;
+  width: 10%;
+  background-repeat: no-repeat;
+}
+
+.wkname{
+  margin-top: 15px;
+  color: #4c3f2d;
+  font-size: 20px;
+}
+
+.wkrptx{
+  margin-bottom: 15px;
+}
+
+.wkps{
+  text-align: center;
+  font-style: oblique;
+  color: #555;
+  font-size: 13px;
+}
