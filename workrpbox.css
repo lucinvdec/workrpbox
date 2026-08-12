@@ -28,10 +28,14 @@
 .wkname{
   margin-top: 15px;
   font-size: 20px;
+  margin-bottom: 7px;
+  font-weight: 600;
+  letter-spacing: 2px;
 }
 
 .wkrptx{
   margin-bottom: 15px;
+  line-height: 1.5;
 }
 
 .wkps{
