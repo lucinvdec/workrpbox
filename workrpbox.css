@@ -28,7 +28,6 @@
 .wkname{
   margin-top: 15px;
   font-size: 20px;
-  margin-bottom: 7px;
   font-weight: 600;
   letter-spacing: 2px;
   text-align: right;
@@ -36,6 +35,13 @@
   padding-right: 10px;
   height: 30px;
   margin-bottom: 16px;
+}
+
+.wkmntx{
+  font-size: 13px;
+  text-align: right;
+  height: 30px;
+  margin-bottom: 8px;
 }
 
 .wkrptx{
